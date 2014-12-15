@@ -8,7 +8,7 @@ layout: default
   - An exhibit is the "canvas" for a Neatline project, the environment in which the content is displayed.
   - Exhibit-level settings define basic, high-level defaults for the project (title, base layers, prose narrative, etc).
   - Each exhibit has its own editing environment, where you can create a collection of records (the contents of the exhibit).
-  - Likewise, each exhibit has its a separate page on the public-facing version of the website.
+  - Likewise, each exhibit has a separate page on the public-facing version of the website.
   - Each installation of Neatline can contain an indefinite number of exhibits.
 
 ## Exhibits overview
