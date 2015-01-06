@@ -42,4 +42,6 @@ Like with the title, click on the "Edit HTML" link to open up a full-screen WYSW
 
 Also, you can use the body as a space to include any kind of embeddable third-party multimedia content - videos from YouTube or Vimeo, audio from SoundCloud, etc. Just click on the "Source" button at the top left of the editor to activate view-HTML mode, and paste in the embed code.
 
-![Screenshot of HTML editor](http://neatline.org/wp-content/uploads/2013/12/htmleditor.png )
+To close the full-screen editor, click the Minimize/Maximize button highlighted below.
+
+![Screenshot of HTML editor](https://raw.githubusercontent.com/scholarslab/Neatline/gh-pages/images/texteditormenu.png )
