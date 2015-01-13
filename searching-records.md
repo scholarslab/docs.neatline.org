@@ -35,7 +35,7 @@ When you're finished searching, just empty the search box to go back to complete
 
 ## Search for tags
 
-If you've added tags to your records (for more information about Neatline's tagging system, see the "Working with Tags" guide), there's a special search syntax you can use to search for records that have a given tag. For example, if you want to find all records that are tagged with `tag1`, enter:
+If you've added tags to your records (for more information about Neatline's tagging system, see the "Editing Groups" guide), there's a special search syntax you can use to search for records that have a given tag. For example, if you want to find all records that are tagged with `tag1`, enter:
 
 `tags: tag1`
 
