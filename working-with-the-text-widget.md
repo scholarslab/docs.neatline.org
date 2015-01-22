@@ -3,6 +3,8 @@ layout: default
 ---
 # [NeatlineText][plugin]
 
+## Definition
+
 **NeatlineText** is an extension to the Neatline plugin that makes it possible to connect paragraphs, sentences, and words in text documents with annotations in Neatline exhibits.
 
 For example, imagine you're making an interactive edition of Walt Whitman's "[Salut au Monde][salut-au-monde]," and want to wire up the locations in this passage with annotations on the map:
