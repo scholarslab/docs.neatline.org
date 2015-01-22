@@ -25,7 +25,7 @@ Exhibits can be grouped into two basic categories depending on the type of base 
 
   1. **Map-based exhibits**, which are built on top of geospatial layers - OpenStreetMap, the Google API layers, Stamen Design layers, or completely custom tile sets delivered as [WMS layers][wms], [MBTiles][mbtiles], or any other layer format supported by the [OpenLayers][openlayers] mapping library. Out of the box, Neatline comes with a core collection of general-purpose spatial layers, and makes it easy to add custom layers if you need something different.
 
-  2. **Image-based exhibits**, which can be built on top of any static, web-accessible image (.jpg, .png, etc). This makes it possible to use Neatline to create interactive editions of paintings, drawings, photographs, documents, and anything else that has some kind two-dimensional, visual instantiation.
+  2. **Image-based exhibits**, which can be built on top of any static, web-accessible image (.jpg, .png, etc). This makes it possible to use Neatline to create interactive editions of paintings, drawings, photographs, documents, and anything else that has some kind of two-dimensional, visual instantiation.
 
   Exhibits built using regular, static images are easy to set up and don't require any additional server infrastructure, but there's a fundamental limitation - since the entire image has to be loaded in bulk into the in-browser application (as compared to the spatial layers, which are loaded dynamically depending on the focus and zoom of the map), the performance of the exhibit will get worse as the image gets larger. Things work well if you're working with a more or less normally-sized image (up to around 2-3000 pixels in height/width), but after that things start to get unacceptably sluggish.
 
