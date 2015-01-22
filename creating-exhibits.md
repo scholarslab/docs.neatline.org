@@ -31,7 +31,7 @@ A piece of text to introduce, narrate, accompany, or otherwise generally support
 ... <span data-neatline-slug="paris">Paris</span> ...
 ```
 
-And you had a record in your Neatline exhibit with a slug of `paris`, the word "Paris" narrative would be interactively linked with the location on the map, and vice versa.
+And you had a record in your Neatline exhibit with a slug of `paris`, the word "Paris" in the narrative would be interactively linked with the location on the map, and vice versa.
 
 ![Screenshot of Title, URL, and Narrative fields](http://neatline.org/wp-content/uploads/2013/12/creation-title-url-narrative.png)
 
