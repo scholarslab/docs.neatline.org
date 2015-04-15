@@ -72,10 +72,10 @@ Alternatively, especially for longer texts, it may be easier to add the elements
     ![html in editor](http://neatline.org/wp-content/uploads/2014/06/neatlinetext.html.png)
 
 3. Open up the "Exhibit Settings," scroll down to the "Narrative" text box, and click the "Source" button in the editor. You must click "Source" so that the editor will understand the HTML markup you've written.
-4. Copy and paste the HTML from your text editor into the "Narrative" text box. 
+4. Copy and paste the HTML from your text editor into the "Narrative" text box.
 5. Click the green Save Exhibit button at the bottom of the page.
 
-Now, when you open up the exhibit, NeatlineText will automatically create bi-directional connections between the spans in the text document and the corresponding records in Neatline. Out of the box, the plugin implements two basic interactions:
+Now, when you open up the public and fullscreen views of the exhibit, NeatlineText will automatically create bi-directional connections between the spans in the text document and the corresponding records in Neatline. Out of the box, the plugin implements two basic interactions:
 
   - **Highlighting**: When the user hovers the cursor over a span in the text, any corresponding objects in the Neatline exhibit (shapes on the map, waypoints, etc.) will be highlighted. And vice versa - when the cursor hovers on an object in the exhibit, the span(s) in the text will highlight.
 
