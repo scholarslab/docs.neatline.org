@@ -16,7 +16,7 @@ The SIMILE Timeline plugin is enabled from the main Exhibit Settings screen, eit
 To enable the Timeline plugin, click once in the widgets box, then click on SIMILE Timeline in the drop down list to turn the plugin on for the exhibit.
 
 ## Plugin Settings
-The settings that control the timeline's appearance are found in the Plugins tab on the Neatline editor screen, accessed by clicking the name the Neatline exhibit from the Browse Exhibits screen. 
+The settings that control the timeline's appearance are found in the Plugins tab on the Neatline editor screen, accessed by clicking the title of the Neatline exhibit from the Browse Exhibits list. 
 
 Click on Plugins, then click SIMILE Timeline to open the Timeline Settings editor.
 
