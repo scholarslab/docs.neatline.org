@@ -8,3 +8,9 @@ This guide is designed to be a comprehensive introduction to the Neatline projec
 ## Help us improve this guide
 
 As you read through the documentation, if you find anything that's unclear, incomplete, or incorrect be sure to file a support ticket on the project's [issue tracker](https://github.com/scholarslab/Neatline/issues) on GitHub, and we'll do our best to fix the problem!
+
+## Community Documentation
+
+The Neatline community has been creating Neatline documentation for their local users. If you know of Neatline documentation, please send us the link, and we'll link it from this site.
+
+[Community documentation list](http://docs.neatline.org/communitydocs.html)
