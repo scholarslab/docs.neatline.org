@@ -11,6 +11,6 @@ As you read through the documentation, if you find anything that's unclear, inco
 
 ## Community Documentation
 
-The Neatline community has been creating Neatline documentation for their local users. If you know of Neatline documentation, please send us the link, and we'll link it from this site.
+The Neatline community has been creating documentation for their local users. If you know of Neatline community documentation, please [send us the link](mailto:scholarslab@virginia.edu), and we'll add it to the list.
 
 [Community documentation list](http://docs.neatline.org/communitydocs.html)
