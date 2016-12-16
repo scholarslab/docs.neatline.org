@@ -1,8 +1,15 @@
 # standard jekyll configuration
 
 permalink: /:year/:month/:day/:title/
+github: [metadata]
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 exclude: ['Gemfile', 'Gemfile.lock']
+gems:
+  - jekyll-coffeescript
+  - jekyll-paginate
 
 title: Neatline Documentation
 domain: http://docs.neatline.org
