@@ -3,8 +3,6 @@ layout: default
 ---
 # Neatline User Community Documentation
 
-Haverford College Libraries Digital Scholarship created a [Neatline exhibit that illustrates how to use Neatline](http://ds.haverford.edu/omeka-starter/neatline/show/neatline-tutorial).
-
 DukeWired.org's [Neatline guide](http://dukewired.org/tutorialFiles/NeatlineManual.pdf)
 
 The Michelle Smith Collaboratory for Visual Culture at the University of Maryland's [Omeka + Neatline Best Practices Guide](http://michellesmithcollaboratory.umd.edu/omeka-guide-getting-started-and-best-practices)
