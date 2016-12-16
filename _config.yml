@@ -1,6 +1,6 @@
 # standard jekyll configuration
 
-permalink: /:year/:month/:day/:title/
+# permalink: /:year/:month/:day/:title/
 github: [metadata]
 markdown: kramdown
 kramdown:
