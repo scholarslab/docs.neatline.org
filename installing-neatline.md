@@ -44,7 +44,7 @@ You'll be redirected back to the list of plugins and see a notification saying t
 
 Neatline Users must now specify a Google Maps API Key as a configuration step after installing the **Neatline** plugin.
 
-##Configuring the Neatline Plugin 
+## Configuring the Neatline Plugin 
 
 1. On the Plugins Screen, click the **Configure** button. ![Screenshot of Configure Button] (http://scholarslab.org/wp-content/uploads/2017/06/configurebutton.png)
 
