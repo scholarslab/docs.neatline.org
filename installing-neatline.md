@@ -40,6 +40,27 @@ Once Omeka is up and running, install the Neatline plugin:
 
 You'll be redirected back to the list of plugins and see a notification saying that "The Neatline plugin was successfully installed." Over in the main vertical navigation on the left side of the screen, you'll see a new listing for **Neatline** - click there to get started.
 
+**NEW for Neatline 2.5.2:**
+
+Neatline Users must now specify a Google Maps API Key as a configuration step after installing the **Neatline** plugin.
+
+##Configuring the Neatline Plugin 
+
+1. On the Plugins Screen, click the **Configure** button. ![Screenshot of Configure Button] (http://scholarslab.org/wp-content/uploads/2017/06/configurebutton.png)
+
+1. Click the link to open the Google Maps Developer's page, and then click the **Get a Key** button. ![Screenshot of Get A Key Button](http://scholarslab.org/wp-content/uploads/2017/06/linktogoogle.png)
+
+3. On the Enable Maps Web APIs popup, enter a project name or click the down arrow to select the default name, *My Project*. ![Screenshot of Down Arrow Button](http://scholarslab.org/wp-content/uploads/2017/06/clicktoselectMyProject.png)
+
+4. Once your Project Name has been entered, or the default *My Project* has been selected, click the **Enable API** button to generate your API key. ![Screenshot of Enable API Button](http://scholarslab.org/wp-content/uploads/2017/06/enableAPIbutton.png)
+
+5. Copy the API Key and paste it into the **Neatline** plugin configuration text box. ![Screenshot of Pasted API Key](http://scholarslab.org/wp-content/uploads/2017/06/apifilledin.png)
+
+
+6. Click the green **Save Changes** button. Your installation is now properly configured to use any of the Google base maps that are packaged with the **Neatline** plugin.
+
+
+
 ## Installing Geoserver
 
 With Omeka and Neatline installed, you can get started building exhibits on top of modern-geography base layers (OpenStreetMap, Google Maps, and Stamen Maps). For many use-cases, the default layers are more than sufficient, and no other action is necessary. For projects that need to incorporate custom imagery, though - for example, historical projects that want to overlay georeferenced maps on top of the default layers, or art history projects that need to use scans of paintings as base layers in exhibits - a third piece of software called [Geoserver][geoserver] is necessary.
