@@ -42,7 +42,7 @@ You'll be redirected back to the list of plugins and see a notification saying t
 
 **NEW for Neatline 2.5.2:**
 
-Neatline Users must now specify a Google Maps API Key as a configuration step after installing the **Neatline** plugin.
+Neatline users must now specify a Google Maps API Key as a configuration step after installing the **Neatline** plugin.
 
 ## Configuring the Neatline Plugin 
 
