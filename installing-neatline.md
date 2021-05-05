@@ -82,7 +82,7 @@ If you don't have the resources to manage your own installation, there are a cou
 [install]: http://omeka.org/codex/Installation "Install Omeka"
 [plugin_install]: http://omeka.org/codex/Installing_a_Plugin
 [omeka]: http://omeka.org/ "Omeka"
-[nlplugin]: http://omeka.org/addons/neatline "Neatline Plugin"
+[nlplugin]: https://omeka.org/classic/plugins/Neatline/ "Neatline Plugin"
 [systemreqs]: http://omeka.org/codex/Preparing_to_Install "Omeka System Requirements"
 [mysql]: https://www.mysql.com/
 [php]: http://us.php.net/
